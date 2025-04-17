@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Casa Azul Bottles – Jojo Official Art</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin-bottom: 0.5rem;
+      font-size: 2rem;
+      letter-spacing: 1px;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+      padding: 1rem;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: 0.9rem;
+      background: #f9f9f9;
+      margin-top: 2rem;
+    }
+    a {
+      color: #333;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Casa Azul Bottles</h1>
+    <p>by Jojo Official Art</p>
+  </header>
+  <section class="gallery">
+    <img src="IMG_5191.JPG" alt="Bottle artwork 1">
+    <img src="IMG_4073.jpeg" alt="Bottle artwork 2">
+    <img src="56a8cfc3-16d6-4529-a85d-130fa798ed60.jpg" alt="Bottle artwork 3">
+    <img src="IMG_0774.jpeg" alt="Bottle artwork 4">
+    <img src="IMG_0906.JPG" alt="Bottle artwork 5">
+    <img src="IMG_2196.jpeg" alt="Bottle artwork 6">
+    <img src="IMG_3040.jpeg" alt="Bottle artwork 7">
+    <img src="IMG_3067.jpeg" alt="Bottle artwork 8">
+    <img src="IMG_3082.jpeg" alt="Bottle artwork 9">
+    <img src="IMG_3938.jpeg" alt="Bottle artwork 10">
+  </section>
+  <footer>
+    <p>Contact: <a href="mailto:contact@jojoofficialart.com">contact@jojoofficialart.com</a></p>
+    <p>Instagram: <a href="https://www.instagram.com/" target="_blank">@jojoofficialart</a></p>
+  </footer>
+</body>
+</html>
